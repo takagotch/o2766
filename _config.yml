@@ -10,9 +10,9 @@ user_description: Crypto Developer at Lorem Ipsum Dolor
 user_title: Crypto Developer
 email: anon@anon.com
 twitter_username: takagotch
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+github_username:  takagotch
+gplus_username:   takagotch
+disqus_username:  takagotch
 
 # Build settings
 markdown: kramdown
